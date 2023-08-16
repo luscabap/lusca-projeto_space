@@ -1,7 +1,7 @@
 <h1 align="center"> 🌌 Lucas Baptista - Space 🚀 </h1>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#user-content--sobre-o-projeto">Sobre</a> •
  <a href="#-layout-🖼️">Layout</a> • 
  <a href="#-🛠-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Desenvolvedor</a> • 
@@ -9,7 +9,7 @@
 </p>
 
 
-## Sobre o projeto 🖥️
+### 🖥️ Sobre o projeto 
 
 O Projeto Alura Space foi elaborado utilizando as tecnologias React e SASS, com o objetivo principal de aprimorar minha compreensão da criação de componentes e da utilização de estilos externos.
 
@@ -17,7 +17,7 @@ Em essência, o site apresenta cartões que exibem imagens de galáxias, estrela
 
 Através desse projeto, adquiri conhecimento na aplicação de estilos externos utilizando SASS e desenvolvi uma compreensão mais profunda da criação de componentes, o que me levou a refatorar o código várias vezes para alcançar uma estrutura composta por componentes aninhados.
 
-🌎 Deploy do projeto: 
+🌎 Deploy do projeto: https://lusca-projeto-space.vercel.app/
 
 ---
 
@@ -58,4 +58,4 @@ Lucas Baptista da Silva</a>
 
 Este projeto esta sobre a LICENÇA:
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/luscabap/lusca-projeto_organo/blob/master/LICENSE)
+[![NPM](https://github.com/luscabap/lusca-projeto_space/blob/main/LICENSE)
