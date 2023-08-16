@@ -58,4 +58,4 @@ Lucas Baptista da Silva</a>
 
 Este projeto esta sobre a LICENÇA:
 
-[![NPM](https://github.com/luscabap/lusca-projeto_space/blob/main/LICENSE)
+[![NPM](https://github.com/luscabap/lusca-projeto_space/blob/main/LICENSE)]
