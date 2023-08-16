@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+<h1 align="center"> 🌌 Lucas Baptista - Space 🚀 </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-layout-🖼️">Layout</a> • 
+ <a href="#-🛠-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Desenvolvedor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+## Sobre o projeto 🖥️
 
-### `npm start`
+O Projeto Alura Space foi elaborado utilizando as tecnologias React e SASS, com o objetivo principal de aprimorar minha compreensão da criação de componentes e da utilização de estilos externos.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Em essência, o site apresenta cartões que exibem imagens de galáxias, estrelas, luas e nebulosas. É possível realizar filtragens com base em opções específicas e restaurar a visualização de todas as imagens. Todas as informações são dinâmicas, uma vez que os títulos, créditos, URLs das imagens, IDs e tags para filtragem são fornecidos por meio de um arquivo JSON.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Através desse projeto, adquiri conhecimento na aplicação de estilos externos utilizando SASS e desenvolvi uma compreensão mais profunda da criação de componentes, o que me levou a refatorar o código várias vezes para alcançar uma estrutura composta por componentes aninhados.
 
-### `npm test`
+🌎 Deploy do projeto: 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Layout 🖼️
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+_WEB_
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![GK1](https://github.com/luscabap/lusca-projeto_space/blob/main/public/assets/screenshots/WEB_01.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠 Tecnologias 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+As seguintes ferramentas foram usadas para desenvolver o projeto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Front End
+- REACT <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+- SASS <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+ 
+          
+### Ambiente de Desenvolvimento
+- Visual Studio Code <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 👨‍🎓 Desenvolvedor
 
-## Learn More
+<a href="https://www.linkedin.com/in/lucas-baptista-da-silva-133779233/">
+Lucas Baptista da Silva</a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href = "mailto:lucasbaptistasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 📝 Licença
 
-### Analyzing the Bundle Size
+Este projeto esta sobre a LICENÇA:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/luscabap/lusca-projeto_organo/blob/master/LICENSE)
